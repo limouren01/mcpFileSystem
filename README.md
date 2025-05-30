@@ -1,0 +1,2 @@
+# mcpFileSystem
+一个mcpserver，可以让对本地文件和mysql上的文件进行增删改查
