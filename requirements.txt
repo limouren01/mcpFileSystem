@@ -1,10 +1,5 @@
 python-dotenv
-typing
 mysql-connector-python
-shutil
 openpyxl
-csv
-json
 python-docx 
 mcp
-exceptions
